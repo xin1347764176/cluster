@@ -25,4 +25,5 @@ json_path = './pic_single/test1.json'
 
 boxes = read_labelme_json(json_path)
 result = process_interface(boxes)
+# new_tuples = [(box[0], res) for box, res in zip(boxes, result)]
 print(result)
