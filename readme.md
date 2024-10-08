@@ -22,7 +22,8 @@
 
 ## 聚类算法实现
 
-![聚类算法示意图](image.png)
+![聚类算法示意图](image.png)  
+![聚类算法示意图](./pic_single/output_image.jpg)  
 
 ## 陈列识别 Demo 支持
 
